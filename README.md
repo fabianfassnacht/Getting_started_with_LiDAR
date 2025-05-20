@@ -29,3 +29,25 @@ LASTools is a commercial software suite with high performance processing option 
 
 ### lidR package in R
 
+The lidR package offers a comprehensive set of functions and tools to efficiently process LiDAR data in R - the packages is also very well documented and the most important resources can be found here:
+
+[lidR package webpage](https://r-lidar.github.io/lidRbook/)
+
+
+## Software solution to extract individual trees from mobile and terrestrial LiDAR data
+
+### 3DFin
+
+3Dfin is free and open software to extract tree stem positions, height and diameters in multiple heights along the tree stems. It is available as Python package as well as plug-in to CloudCompare (see above). 3DFin works very well for low to medium complexity stands and with some tuning also has reasonable results for comparably complex stands. It is easy to use and implement. You can find a tutorial for the CloudCompare implementation here:
+
+[3DFin tutorial](https://github.com/fabianfassnacht/Cloud_Compare_3DFin/blob/main/1_3Dfin_cloudcompare.md)
+
+
+### 
+
+
+
+
+
+
+
