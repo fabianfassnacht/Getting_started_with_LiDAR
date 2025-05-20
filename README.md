@@ -34,7 +34,7 @@ The lidR package offers a comprehensive set of functions and tools to efficientl
 [lidR package webpage](https://r-lidar.github.io/lidRbook/)
 
 
-## Software solution to extract individual trees from mobile and terrestrial LiDAR data
+## Software solutions and packages to extract individual trees from mobile and terrestrial LiDAR data
 
 ### 3DFin
 
@@ -43,9 +43,23 @@ The lidR package offers a comprehensive set of functions and tools to efficientl
 [3DFin tutorial](https://github.com/fabianfassnacht/Cloud_Compare_3DFin/blob/main/1_3Dfin_cloudcompare.md)
 
 
-### 
+### DendRobot
 
+An alternative approach for extract tree stem position and individual tree attributs is DendRoboto - I did not try this software yet but it also looks interesting and can be found here:
 
+[Dendrobot](https://dendrobot.czu.cz/download)
+
+## Ray Cloud Tools
+
+A python package for efficient point cloud processing. Did not try it yet but looks quite promising as well.
+
+[RayCloudTools github page](https://github.com/csiro-robotics/raycloudtools)
+
+## SimpleForest / SimpleTree
+
+Stand-alone software to extract detailed QSM models from dense point clouds (mostly from terrestrial or mobile laserscanning data). Good tutorials are available amongst others in the form of Youtube Videos. You should be able to find all resources here:
+
+[SimpleFoorest webpage](https://simpleforest.org/)
 
 
 
