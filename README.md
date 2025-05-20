@@ -1,2 +1,31 @@
 # Getting_started_with_LiDAR
 Collection of sources to get started with LiDAR processing
+
+# Software tools
+
+To get started with working with Light Detection and Ranging data there are numerous helpful tools and tutorials that will be summarized on this page. The usefulness will somewhat depend on which kind of LiDAR data you are applying and what your objectives are but several of the tools will also work with different datasets and applications.
+
+## Visualization and basic handling of LiDAR data
+
+### CloudCompare
+
+CloudCompare is THE open and free solution for processing point-clouds with a graphical user interface (GUI). You can find a very basic Tutorial to get started here: 
+
+[Cloud Compare Basics Tutorial](https://github.com/fabianfassnacht/CloudCompare_Basics_1/blob/main/1_cloud_compare_basics.md)
+
+Many more resources can be found online.
+
+### FUSION
+
+Another free and open software solution with GUI is FUSION which was developed by the US Forest Service and which can be downloaded here:
+
+[FUSION download](http://forsys.sefs.uw.edu/fusion/fusionlatest.html)
+
+FUSION can be a bit counter-intuitive to work with at the beginning but generally works fine and has nice automatization options using commandline tools and works particularly well with airborne laserscanning data-
+
+### LASTools
+
+LASTools is a commercial software suite with high performance processing option including all important standard processing chains of laserscanning data. Downside is that it not for free. Students of FU Berlin can contact me since we currently have a license for LASTools. You can find LASTools here: [LASTools webpage](https://lastools.github.io/)
+
+### lidR package in R
+
